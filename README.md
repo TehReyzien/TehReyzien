@@ -1,7 +1,7 @@
 <h1 align="center">Wassup 👋, I am ReyzienGR</h1>
 <h3 align="center">A 17 year old Java Developer from Greece</h3>
 
-- I am currently working on different projects and plugin!
+- I am currently working on different projects and plugins!
 - Business Inquiries: reyzienbusiness@gmail.com
 - My Discord: **ReyzienGR#7579**
 
